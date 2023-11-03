@@ -95,7 +95,5 @@
         
 
 
-    <div class="d-flex justify-content-center align-items-center" style="height: 15vh;">
-        <footer class="container">
-            <p>Copyright &copy; Henry Gervacio</p>
+   
  
