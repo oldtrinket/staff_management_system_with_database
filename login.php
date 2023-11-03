@@ -76,14 +76,7 @@
             $result = $stmt->get_result();
             $row = $result->fetch_assoc();
         
-            if($row) {
-                if ($password === $row['passwordHash']) {
-                    $_SESSION['roleID'] = $row['roleID'];
-                    
-                    // Redirect based on roleID
-                    if ($row['roleID'] == 1 || $row['roleID'] == 2) {
-                      
-                    }
+       
                
         
 
