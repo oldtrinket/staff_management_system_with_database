@@ -86,12 +86,7 @@
                     } elseif ($row['roleID'] == 3 || $row['roleID'] == 4) {
                         header("Location: /henry_ff/index1.php");
                     }
-                } else {
-                    echo "Invalid login credentials";
-                }
-            } else {
-                echo "Invalid login credentials";
-            }
+               
         
 
 
