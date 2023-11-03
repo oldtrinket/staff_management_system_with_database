@@ -48,21 +48,7 @@
         <h1>Anthony Fastfood Restaurant</h1>
     </div>
 
-    <div class="login-box">
-        <form method="POST" action="">
-            <input type="email" name="email" placeholder="Email" required><br><br>
-            <input type="password" name="password" placeholder="Password" required><br><br>
-            <button type="submit" name="login">Login</button>
-        </form>
-    </div>
-
-    <?php
-        session_start(); // Start the session at the beginning
-
-        if(isset($_POST['login'])) {
-            $email = $_POST['email'];
-            $password = $_POST['password'];
-        
+  
            
         
        
