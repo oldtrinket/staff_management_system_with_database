@@ -32,22 +32,6 @@
             text-align: center;
             margin-bottom: 20px;
         }
-
-        .logo {
-            width: 100px;
-            height: auto;
-            margin-bottom: 0;
-            margin-top: 20px;
-        }
-
-    </style>
-</head>
-<body>
-    <div class="header">
-        <img src="anthony.png" alt="Logo" class="logo">
-        <h1>Anthony Fastfood Restaurant</h1>
-    </div>
-
   
            
         
