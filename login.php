@@ -82,9 +82,7 @@
                     
                     // Redirect based on roleID
                     if ($row['roleID'] == 1 || $row['roleID'] == 2) {
-                        header("Location: /henry_ff/index2.php");
-                    } elseif ($row['roleID'] == 3 || $row['roleID'] == 4) {
-                        header("Location: /henry_ff/index1.php");
+                      
                     }
                
         
