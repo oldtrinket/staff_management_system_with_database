@@ -93,11 +93,7 @@
                 echo "Invalid login credentials";
             }
         
-            $stmt->close();
-            $conn->close();
-        }
-        
-    ?>
+
 
     <div class="d-flex justify-content-center align-items-center" style="height: 15vh;">
         <footer class="container">
