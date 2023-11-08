@@ -1,4 +1,4 @@
-<?php // sdfsd sdfsd sdfasd sdfasa sdfsdf asdfasdsd sdfasd sdfasdf sdfasdf  
+<?php // sdfsd sdfsd sdfasd sdfasa sdfsdf asdfasdsd sdfasd sdfasdf 
 // At the top of index.php
 $updateSuccess = false;
 if (isset($_GET['updateSuccess']) && $_GET['updateSuccess'] == 1) {
