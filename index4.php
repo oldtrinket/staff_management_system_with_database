@@ -1,4 +1,4 @@
-<?
+<?p
 // At the top of index.php
 $updateSuccess = false;
 if (isset($_GET['updateSuccess']) && $_GET['updateSuccess'] == 1) {
