@@ -15,5 +15,5 @@ if ( isset($_GET['staffID']) ) {
 }
 
 header("Location: /henry_ff/index3.php");
-exi;
+exit;
 ?>
