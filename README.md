@@ -1,2 +1,2 @@
 # staff management system with database
-project completed
+this project completed
